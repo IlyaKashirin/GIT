@@ -12,6 +12,6 @@ def sum_distance(fro,to):
             sum += i
         print(sum)
 sum_distance(fro,to)
-print('Коммит')##
+print('Коммит')#
 
 
