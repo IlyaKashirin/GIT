@@ -6,6 +6,6 @@ def trim_and_repeat(stroka,offset,repetitions):
     for i in range(repetitions):
         print(stroka[offset:],end = '')
 
-trim_and_repeat(stroka,offset,repetitions)#
+trim_and_repeat(stroka,offset,repetitions)
 
 
